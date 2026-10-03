@@ -1,5 +1,25 @@
-# Hi, I'm Niraj Yadav 
+# Hi, I'm Niraj Yadav 👋
 
-🎓 CSE (Artificial Intelligence) student at Methodist College of Engineering and Technology.
+### CSE (AI) Student | AI & Full-Stack Developer
 
-💻 I build practical **AI-powered applications, full-stack web projects, and developer-focused solutions**.
+I build **AI-powered applications and full-stack web projects**.
+
+### 🛠️ Skills
+
+Python • C • JavaScript • React • Next.js • FastAPI • Node.js • SQL • Supabase • Tailwind CSS • Git
+
+### 🚀 Projects
+
+* ✈️ **Margdarshi** — AI Travel Planner
+* 💼 **SkillBridge AI** — AI & Career Platform
+* 🔧 **Anup Fabrication Works** — Business Website
+
+### 📚 Currently Learning
+
+AI/ML • DSA • Backend Development • Full-Stack Development
+
+### 🔗 Connect
+
+[GitHub](https://github.com/nirajyadav68) • LinkedIn
+
+**Building. Learning. Improving. 🚀**

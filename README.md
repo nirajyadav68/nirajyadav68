@@ -1,4 +1,4 @@
-# Hi, I'm Niraj Yadav 👋
+# Hi, I'm Niraj Yadav 
 
 🎓 CSE (Artificial Intelligence) student at Methodist College of Engineering and Technology.
 
